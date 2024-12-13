@@ -14,7 +14,7 @@ let scene = "Beginning"
 let hue = 0
 function preload() {
  for (let i = 0; i < 10; i++) {
-   emojis.push(loadImage("../Images/P7/"+ i + ".png"))
+   emojis.push(loadImage("/Images/P7/"+ i + ".png"))
  }
 }
 function setup() {

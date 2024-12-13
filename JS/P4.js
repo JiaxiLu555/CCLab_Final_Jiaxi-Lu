@@ -2,9 +2,9 @@ let hand1, hand2, body
 let eyeOpen = false
 let r, g, b
 function preload() {
- hand1 = loadImage('../Images/P4/left.jpg')
- hand2 = loadImage('../Images/P4/right.jpg')
- body = loadImage('../Images/P4/body.png')
+ hand1 = loadImage('/Images/P4/left.jpg')
+ hand2 = loadImage('/Images/P4/right.jpg')
+ body = loadImage('/Images/P4/body.png')
 }
 function setup()
 {
