@@ -26,7 +26,7 @@ header {
 
 h1 {
    font-size: 2em;
-   color: #333;
+   color: #a3e539;
 }
 
 
@@ -44,21 +44,21 @@ h1 {
 
 .assignments ul li a {
    text-decoration: none;
-   color: #0066cc;
+   color: #79e3b3;
    font-size: 1.2em;
    transition: color 0.3s;
 }
 
 
 .assignments ul li a:hover {
-   color: #00509e;
+   color: #f06814;
 }
 
 
 footer {
    text-align: center;
    padding: 10px;
-   color: #777;
+   color: #6a16df;
    margin-top: auto;
 }
 
